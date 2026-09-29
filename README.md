@@ -277,10 +277,19 @@ This workflow can be adapted for:
 * Personalized email campaigns
 * Lead follow-up automation
 
-## 👩‍💻 Author
+---
 
-**Hadil Derouich**
+## Demo
 
-Software Engineer · Business Intelligence · Data & AI
 
-[GitHub](https://github.com/hadilderouich)
+
+
+
+
+https://github.com/user-attachments/assets/df7af15e-d60e-4f11-8473-22797c76efd2
+
+
+
+
+
+```
